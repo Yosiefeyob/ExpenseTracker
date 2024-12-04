@@ -1,8 +1,8 @@
-Expense Tracker:
+#Expense Tracker:
 
 A simple web-based expense tracker built using PHP, MySQL, and HTML/CSS to help users manage their personal finances effectively.
 
-Features:
+#Features:
 
 Add, edit, and delete expenses.
 
