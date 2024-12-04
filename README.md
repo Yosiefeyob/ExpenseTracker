@@ -2,6 +2,7 @@
 
 A simple web-based expense tracker built using PHP, MySQL, and HTML/CSS to help users manage their personal finances effectively.
 
+
 # Features:
 
 Add, edit, and delete expenses.
